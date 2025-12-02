@@ -1,6 +1,7 @@
 Project: QADMON Spectral Invariants (2025)  
 Author: Igor Chechelnitsky  
-ORCID: 0009-0007-4607-1946  
+ORCID: 0009-0007-4607-1946 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17788901.svg)](https://doi.org/10.5281/zenodo.17788901)
 
 ---
 
