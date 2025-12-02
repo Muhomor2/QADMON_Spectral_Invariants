@@ -12,4 +12,9 @@ QADMON Spectral Invariants project, including:
 - Numerical datasets (kappa convergence, gamma_star results)
 - Zenodo metadata and CITATION file
 
-This version is stable and publication-ready.
+## v1.0.0 — Initial public release (Zenodo archived)
+
+- First publication of the spectral invariants γ* and κ.
+- Includes article, theorem companion, Python code, and numerical data.
+- Archived on Zenodo: 10.5281/zenodo.17788901.
+.
