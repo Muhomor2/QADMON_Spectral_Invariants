@@ -1,0 +1,16 @@
+{
+  "title": "QADMON Spectral Invariants",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "creators": [
+    {
+      "name": "Chechelnitsky, Igor",
+      "orcid": "0009-0007-4607-1946",
+      "affiliation": "Independent Researcher, Israel"
+    }
+  ],
+  "description": "Repository containing full research on QADMON spectral invariants.",
+  "license": "MIT",
+  "keywords": ["QADMON", "spectral invariants", "quasicrystals", "GUE", "Fibonacci operators"],
+  "access_right": "open"
+}
