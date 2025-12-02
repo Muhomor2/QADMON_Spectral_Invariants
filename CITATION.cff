@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use QADMON Spectral Invariants, please cite this work."
+title: "QADMON Spectral Invariants (2025)"
+authors:
+  - family-names: "Chechelnitsky"
+    given-names: "Igor"
+    orcid: "0009-0007-4607-1946"
+doi: ""
+date-released: "2025-12-02"
+version: "v1.0.0"
+license: "MIT"
+repository-code: "https://github.com/<your-username>/QADMON_Spectral_Invariants"
