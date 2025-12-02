@@ -1,0 +1,4 @@
+gamma*  = 1.0233267079464885
+error   = minimal
+N used  = 1,000,000
+method  = variational + numerical
