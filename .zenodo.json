@@ -1,16 +1,25 @@
 {
-  "title": "QADMON Spectral Invariants",
+  "title": "QADMON Spectral Invariants (2025)",
   "upload_type": "publication",
   "publication_type": "article",
+  "description": "This repository contains the full reproducible package for the discovery of two new spectral invariants (gamma_star and kappa) in quasicrystalline approximations to GUE statistics, including the main article, theorem companion, Python code, and numerical datasets.",
   "creators": [
     {
       "name": "Chechelnitsky, Igor",
-      "orcid": "0009-0007-4607-1946",
-      "affiliation": "Independent Researcher, Israel"
+      "affiliation": "Independent Researcher, Ashkelon, Israel",
+      "orcid": "0009-0007-4607-1946"
     }
   ],
-  "description": "Repository containing full research on QADMON spectral invariants.",
   "license": "MIT",
-  "keywords": ["QADMON", "spectral invariants", "quasicrystals", "GUE", "Fibonacci operators"],
-  "access_right": "open"
+  "keywords": [
+    "spectral theory",
+    "GUE statistics",
+    "Riemann zeros",
+    "quasicrystals",
+    "Fibonacci RG",
+    "mathematical physics"
+  ],
+  "access_right": "open",
+  "notes": "QADMON Spectral Invariants v1.0.0",
+  "version": "1.0.0"
 }
